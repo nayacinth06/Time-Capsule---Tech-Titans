@@ -24,3 +24,5 @@ SQLite: A lightweight, serverless database engine used to store time capsule dat
 Pandas: For handling and querying data in a tabular format.
 Python: The primary language used for backend logic and app functionality.
 Base64: Used to encode and embed local images as the background for the app.
+
+Example Video: (https://drive.google.com/drive/u/0/folders/1BZAgmadUfswJ0YtqAYC-kbYXGofz4xSj)
