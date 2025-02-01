@@ -6,9 +6,9 @@
 
 
 ### Team Members
-- Member 1: [Abhinaya C A] - [AISAT]
-- Member 2: [Sana Niju] - [AISAT]
-- Member 3: [Vandhana K U] - [AISAT]
+- Member 1: Abhinaya C A - AISAT
+- Member 2: Sana Niju - AISAT
+- Member 3: Vandhana K U - AISAT
 
 ### Technical Details
 - 1.Users can write a personal message for their future selves.
