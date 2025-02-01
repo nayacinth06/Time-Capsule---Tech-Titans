@@ -2,7 +2,7 @@
 
 
 ## A digital time capsule webpage where users can create, store, and open personal messages for the future.
-### Team Name: [Tech Titans]
+### Team Name: Tech Titans
 
 
 ### Team Members
