@@ -19,7 +19,7 @@ SQLite Database:
 The project utilizes SQLite to manage and store time capsule data (message, open date, and creation timestamp).
 The app uses SQLite queries to insert, retrieve, and delete records based on user interaction.
 Technologies Used:
-Streamlit: A Python framework for building interactive web apps.\n
+Streamlit: A Python framework for building interactive web apps.
 SQLite: A lightweight, serverless database engine used to store time capsule data.
 Pandas: For handling and querying data in a tabular format.
 Python: The primary language used for backend logic and app functionality.
