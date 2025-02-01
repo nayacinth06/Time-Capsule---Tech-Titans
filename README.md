@@ -11,12 +11,12 @@
 - Member 3: [Vandhana K U] - [AISAT]
 
 ### Technical Details
-1.Users can write a personal message for their future selves.
-2.They can select a date on which they wish to open the capsule.
-3.The time capsule is saved in the database with a timestamp of creation and the specified open date.
-4.Users can view a list of all their created time capsules along with the date they will be opened.
-5.If the current date is the same as or later than the open date, users can open the capsule and read the stored message.
-6.Time capsules that have been opened are deleted from the database.
+- 1.Users can write a personal message for their future selves.
+- 2.They can select a date on which they wish to open the capsule.
+- 3.The time capsule is saved in the database with a timestamp of creation and the specified open date.
+- 4.Users can view a list of all their created time capsules along with the date they will be opened.
+- 5.If the current date is the same as or later than the open date, users can open the capsule and read the stored message.
+- 6.Time capsules that have been opened are deleted from the database.
 
 ### Technologies Used
 - SQLite Database:The project utilizes SQLite to manage and store time capsule data (message, open date, and creation timestamp).
