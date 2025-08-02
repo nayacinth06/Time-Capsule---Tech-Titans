@@ -25,12 +25,12 @@
 - Python: The primary language used for backend logic and app functionality.
 
 # Run
-[streamlit timecapsule1.py]
+streamlit timecapsule1.py
 
-# Screenshots
-- [(https://drive.google.com/file/d/1ROIeafhzFlhVouNXItqKgyeZ-00Tp0zL/view?usp=drive_link)]
+ Screenshots
+- #<img width="1785" height="762" alt="SelectDate" src="https://github.com/user-attachments/assets/741c2a0e-f716-4fe0-9d16-c37fcf6bcfdf" />
 
-- [(https://drive.google.com/file/d/1BPwSyKR0WsrkcHCgW-l93u1RKDz1gZRW/view?usp=drive_link)]
+- <img width="1792" height="759" alt="ViewMessage" src="https://github.com/user-attachments/assets/58ac5a1c-c509-4dc5-ac02-c4cbd6452a75" />
 
 ### Project Demo
 # Video
